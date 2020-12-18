@@ -38,3 +38,11 @@ During the first week, A will modify the replication done in p2 to make it more 
 In week 2, A will implement the usage of different distance functions while B will create the different feature sets for the matching. C will assemble the two with the already done modular replications of the tables to regenerate them with the new matched sets.
 
 The third week A will start working on what will be included in the video while B and C analyze the results. B will compute the difference between the replicated tables and the post-match tables and C will write down our observations. 
+
+## Repartition of work
+Week 1 followed the plan exactly, Quentin modularised the first replication, while Anne and Max replicated the second table.
+
+Week 2 Quentin implemented the distance functions, and started writing the report. Max and Anne implemented the matching. Anne also fleshed out the report.
+Week 3 Max finished the matching and generated all the tables. Quentin reorganised and exported those table to the latex format and Anne wrote the bulk rest of the report. And we all worked together to finish the report 🌈
+
+That being said, for week 2 and 3, we each helped the others on about every task, so everyone did a little of everything.
